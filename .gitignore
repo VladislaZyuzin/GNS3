@@ -10,6 +10,7 @@ images/
 *.tmp
 .DS_Store
 
+*.doxc
 # Виртуальные окружения (если появятся)
 venv/
 __pycache__/
